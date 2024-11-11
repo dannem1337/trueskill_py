@@ -11,4 +11,4 @@ Run the entire notebook to reproduce all results and figures for these questions
 
 N.B The cell UFC fights dataset requires a very long running time, approx 1 hour, in order to estimate the skill level of all fighters.
 
-The work of this project is based on [Microsofts TrueSkill ranking system]{https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/}.
+The work of this project is based on [Microsofts TrueSkill ranking system](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/).
